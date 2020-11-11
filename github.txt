@@ -1,0 +1,143 @@
+Accessibility Tools
+ColorBox by Lyft Design — a web app that algorithmically builds accessible color systems.
+Contraste — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
+Contrast — a macOS app for designers and developers to get quick access to WCAG color contrast ratios.
+Hex Naw — helps you to test entire color systems for contrast and accessibility.
+PA11Y — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
+Sim Daltonism — a color blindness simulator for macOS and iOS that lets you visualize colors as they are perceived with various types of color blindness. It‘s free and open-source.
+Animation Tools
+Need to create an animated transition, micro-interaction or scroll-based animation? Go through these tools:
+
+Adobe After Effects — a digital visual effects, motion graphics, and compositing application.
+Haiku — keyframe based animation connecting your UI tools to code that developers can easily use.
+Kite Compositor — a powerful animation and prototyping application for Mac & iOS.
+LightBox — 2D, Hand-Drawn animation package.
+Lottie — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
+Spirit — animation tool that helps you to create and manage the animations real time in the browser.
+Tumult Hype — the HTML5 animation/interactives creation app for macOS.
+Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animation tools.
+
+Augmented Reality Tools
+Lightform — a design tool for projected AR.
+Spark AR Studio — сreate AR experiences for Instagram without code.
+Collaboration Tools
+RealtimeBoard — whiteboarding platform for cross-functional team collaboration.
+Witeboard — simple real-time whiteboard for collaboration work.
+Color Picker Tools
+If you are looking for an eyedropper tool, color identifier tool or color capture tool, here you go:
+
+Adobe Color — create color schemes with the color wheel or browse thousands of color combinations from the Color community.
+Chroma — free web app which allows you to identify the color.
+Coolors.co — it is the super-fast color scheme generator.
+Colourcode — online designer tool, which allows you to easily and intuitively combine colours.
+Khroma — AI-based tool to generate color palettes based on your preferences.
+Paletton — a designer tool for creating color combinations that work together well.
+Pikka — Color Picker — color picker & color schemes generator for macOS
+React Color — a collection of color pickers from Sketch, Photoshop, Chrome.
+Skala Color — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
+Swatches — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
+UI Gradients — handpicked collection of beautiful color gradients for designers and developers.
+Design Feedback Tools
+Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look at this tool:
+
+Flawless Feedback — review and annotate iOS apps then share your feedback in Jira or Trello.
+Design System Tools
+Tools that help to build, maintain, and organize your own design system.
+
+Brand.ai — automatically maintainable UI components style guide.
+Frontify — create graphical guidelines, patterns libraries, design systems.
+Lingo — create a shared asset library with your entire team.
+Lucid — tool for creating, managing and sharing a design system. From a simple component library through to detailed descriptions of your styles.
+Zeroheight — styleguides created by designers, extended by developers, and editable by everyone.
+We can also add to this list Sketch and Figma, which are mentioned in UI design tools.
+
+Design to Code Tools
+Blocs For Mac — a fast, easy to use and powerful visual web design tool, that lets you create responsive websites without writing code.
+Bootstrap Studio — a powerful web design tool for creating responsive websites using the Bootstrap framework.
+Mobirise — an offline drag and drop website builder software that is based on Bootstrap 3/4 and Google AMP.
+Pinegrow — a professional visual editor for CSS Grid, Bootstrap 4 and 3, Foundation, responsive design, HTML, and CSS.
+Readymag — visually-pleasing tool for designing on the web from landing pages to multimedia long-reads, presentations and portfolios.
+STUDIO — design from scratch, collaborate in real time and publish websites.
+Sympli — deliver the design, assets, specifications directly into your preferred IDE (e.g Xcode, Android Studio).
+Tilda — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
+Webflow — build responsive websites in your browser, then host with us or export your code to host wherever.
+Experience Monitoring Tools
+Amplitude — Understand your users, rapidly release better product experiences, and grow your business.
+Fathom — provides simple, useful websites stats without tracking or storing personal data of your users.
+FullStory — app that captures all your customer experience data in one powerful, easy-to-use platform.
+Google Analytics — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
+Heap — automatically capture every web, mobile, and cloud interaction then retroactively analyze your data without writing code.
+Hotjar — see how visitors are really using your website, collect user feedback and turn more visitors into customers.
+Inspectlet — record videos of your visitors as they use your site, so you can see everything they do.
+Mixpanel — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website.
+Pendo — measure and elevate the customer experience within their applications.
+Font Tools
+Google Fonts — making the web more beautiful, fast, and open through great typography.
+FontPair — simple tool that helps you pair Google Fonts together.
+Fontface Ninja — browser extension to discover what fonts are being used on any website.
+FontSpark — simple tool to help designers quickly find the best fonts for their projects.
+Sans Forgetica — downloadable font that is scientifically designed to help you remember your study notes.
+Webfont — create and maintain custom SVG icon fonts, made a shared library of icons.
+Google Webfonts Helper — a hassle-free way to self-host Google Fonts.
+Free Screenshot Software
+Find some powerful screenshot tools available for macOS:
+
+CloudApp — record videos, webcam, annotate screenshots, create GIFs and save them to the cloud.
+Lighshot — screenshot app for taking quick captures of your screen.
+Monosnap — create screenshots, annotate them and upload them to the cloud.
+Quicktime — video player that you can use to record your screen.
+Screenie — screenshotting tool that works as an image manager, so you can filter and search through images, change screenshot filetypes.
+Snappy — tool that takes quick shots and organizes them for you into collections.
+Teampaper Snap — modern screenshotting app that allows you to take screenshots of a selected area.
+Kap — open-source screen recorder with options to export to GIF, MP4, WebM and APNG.
+Greenshot — take a screenshot of a selected region, window or fullscren. Export it in different ways. Free on Windows
+ScreenToGif — open source tool to record a gif of part of the screen. Also work as a nice editor. Only available for Windows.
+Icons Tools
+IconJar — store all your icons in one icon manager for Mac.
+Nucleo — a Mac and Windows app to collect, customize and export all your icons.
+Mockup Tools
+Rotato — animated 3D mockups for your app designs.
+ScreenSpace — 3D devices videos for motion designer.
+Cleanmock — create stunning mockups using latest device frames like iPhone & custom backgrounds.
+Prototyping Tools
+Axure RP — wireframing, prototyping, collaboration & specifications generation.
+InVision — prototyping, collaboration & workflow platform.
+Flinto — a Mac app for creating interactive and animated prototypes of app designs.
+Framer X — a tool for prototyping design animations.
+Keynote — the built-in Mac app for creating presentations that can also be used for quick prototyping (see how Apple designers use it to verify design concepts).
+Marvel App — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place.
+Principle — makes it easy to design animated and interactive user interfaces.
+ProtoPie — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
+Proto.io — a tool to create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
+UXPin — build prototypes that feel real, with powers of code components, logic, states and design systems.
+You can also do prototyping with Figma, Adobe XD, and InVision Studio, which are mentioned in the UI Design Tools section.
+
+Stock Photos Tools
+Zoommy — helps you find awesome free stock photos for your creative product or inspiration.
+Unsplash — stock photos free to use
+UI Design Tools
+Adobe Illustrator — create logos, icons, drawings, typography, and illustrations for print, web, video, and mobile.
+Adobe Photoshop — imaging and graphic design software.
+Adobe XD — design, prototype, and share any user experience, from websites and mobile apps to voice interactions.
+Affinity Designer — vector graphics editor for macOS, iOS, and Microsoft Windows.
+CleverBrush — browser based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
+Gravit — A free vector design app, available for macOS, Windows, Linux, ChromeOS and browser.
+Figma — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
+Invision Studio — combines design, prototyping, and collaboration into one harmonious workflow.
+Photopea — A free browser based graphic design app, alternative to Photoshop.
+Sketch — it's a design toolkit built for Mac.
+Vectr — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
+User Flow Tools
+If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
+
+Draw.io — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+Google Drawings — create diagrams and charts, for free; all within Google Docs.
+Overflow — turn your designs into playable user flow diagrams that tell a story.
+Sketch.systems — ui and flow design with interactive state machines.
+Whimsical — easy to create flow charts, wireframes and sticky notes.
+Version Control for Designers
+Abstract — a platform for design teams to version, manage and collaborate on Sketch files.
+Kactus — design version control without changing your tools. Manage changes, document work and keep your team in sync.
+Versions — a version control tool for designers with visual diff, merge and conflict resolution.
+Folio — a simple version control system for design teams; based on Git.
+Plant — a Mac app and Sketch plugin offering complete version control for designers and teams.
